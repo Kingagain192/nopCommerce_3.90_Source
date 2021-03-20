@@ -1,0 +1,12 @@
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.CoreCompileInputs.cache
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\KiotFood\Source\NopCommerce\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
